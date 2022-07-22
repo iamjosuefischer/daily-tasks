@@ -3,8 +3,6 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/josuefischeroficial/daily-tasks)
   ![GitHub stars](https://img.shields.io/github/stars/josuefischeroficial/daily-tasks?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/josuefischeroficial/daily-tasks?style=social)
-  
-  <br />
 
   <h2 align="center">Daily Tasks, a fully responsive todo app - By: Josue Fischer</h2>
 
