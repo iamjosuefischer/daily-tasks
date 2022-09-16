@@ -1,14 +1,14 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/josuefischeroficial/daily-tasks)
-  ![GitHub stars](https://img.shields.io/github/stars/josuefischeroficial/daily-tasks?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/josuefischeroficial/daily-tasks?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/iamjosuefischer/daily-tasks)
+  ![GitHub stars](https://img.shields.io/github/stars/iamjosuefischer/daily-tasks?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/iamjosuefischer/daily-tasks?style=social)
 
   <h2 align="center">Daily Tasks, a fully responsive todo app - By: Josue Fischer</h2>
 
   Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://josuefischeroficial.github.io/daily-tasks/"><strong>➥ Live Demo</strong></a>
+  <a href="https://iamjosuefischer.github.io/daily-tasks/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,13 +31,13 @@ To run **Daily Tasks** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/josuefischeroficial/daily-tasks.git
+sudo git clone https://github.com/iamjosuefischer/daily-tasks.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/josuefischeroficial/daily-tasks.git
+git clone https://github.com/iamjosuefischer/daily-tasks.git
 ```
 
 ### Contact
